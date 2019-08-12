@@ -1,0 +1,185 @@
+2019-07-02 11:36:24,759 - ******** Starting ********
+2019-07-02 11:36:24,770 - End of Step 1 and 2
+2019-07-02 11:36:24,773 - End of Step 3
+2019-07-02 11:36:24,776 - End of Step 4 and 5
+2019-07-02 11:36:24,829 - End of Step 6
+2019-07-02 11:38:46,098 - ******** Starting ********
+2019-07-02 11:38:46,106 - End of Step 1 and 2
+2019-07-02 11:38:46,111 - End of Step 3
+2019-07-02 11:38:46,114 - End of Step 4 and 5
+2019-07-02 11:38:46,166 - End of Step 6
+2019-07-02 11:39:28,769 - ******** Starting ********
+2019-07-02 11:39:28,775 - End of Step 1
+2019-07-02 11:39:28,925 - End of Step 2
+2019-07-02 11:39:28,929 - End of Step 3 - Read gene network
+2019-07-02 11:39:28,929 - End of Step 3 - Getting genes in the analysis
+2019-07-02 11:39:28,930 - End of Step 3
+2019-07-02 11:39:28,932 - End of Step 4 and 5
+2019-07-02 11:39:28,988 - End of Step 6
+2019-07-02 13:13:03,656 - ******** Starting ********
+2019-07-02 13:13:03,662 - End of Step 1
+2019-07-02 13:13:03,811 - End of Step 2
+2019-07-02 13:13:03,815 - End of Step 3 - Read gene network
+2019-07-02 13:13:03,815 - End of Step 3 - Getting genes in the analysis
+2019-07-02 13:13:03,816 - End of Step 3
+2019-07-02 13:13:03,819 - End of Step 4 and 5
+2019-07-02 13:13:03,870 - End of Step 6
+2019-07-02 13:13:12,186 - ******** Starting ********
+2019-07-02 13:13:12,194 - End of Step 1 and 2
+2019-07-02 13:13:12,198 - End of Step 3
+2019-07-02 13:13:12,201 - End of Step 4 and 5
+2019-07-02 13:13:12,253 - End of Step 6
+2019-07-02 13:13:46,788 - ******** Starting ********
+2019-07-02 13:13:46,793 - End of Step 1
+2019-07-02 13:13:46,943 - End of Step 2
+2019-07-02 13:13:46,947 - End of Step 3 - Read gene network
+2019-07-02 13:13:46,947 - End of Step 3 - Getting genes in the analysis
+2019-07-02 13:13:46,948 - End of Step 3
+2019-07-02 13:13:46,951 - End of Step 4 and 5
+2019-07-02 13:13:47,009 - End of Step 6
+2019-07-02 14:35:44,332 - ******** Starting ********
+2019-07-02 14:35:44,352 - End of Step 1
+2019-07-02 14:35:44,509 - End of Step 2
+2019-07-02 14:35:44,513 - End of Step 3 - Read gene network
+2019-07-02 14:35:44,513 - End of Step 3 - Getting genes in the analysis
+2019-07-02 14:35:44,514 - End of Step 3
+2019-07-02 14:35:44,517 - End of Step 4 and 5
+2019-07-02 14:35:44,625 - End of Step 6
+2019-07-02 15:38:14,426 - ******** Starting ********
+2019-07-02 15:41:09,819 - ******** Starting ********
+2019-07-02 15:41:09,824 - End of Step 1
+2019-07-02 15:41:09,974 - End of Step 2
+2019-07-02 15:41:29,579 - ******** Starting ********
+2019-07-02 15:41:29,585 - End of Step 1
+2019-07-02 15:41:29,734 - End of Step 2
+2019-07-02 15:41:29,741 - End of Step 4 and 5
+2019-07-02 15:41:29,792 - End of Step 6
+2019-07-02 15:42:53,257 - ******** Starting ********
+2019-07-02 15:42:53,263 - End of Step 1
+2019-07-02 15:42:53,413 - End of Step 2
+2019-07-02 15:42:53,420 - End of Step 4 and 5
+2019-07-02 15:42:53,475 - End of Step 6
+2019-07-02 15:54:37,392 - ******** Starting ********
+2019-07-02 15:54:37,398 - End of Step 1
+2019-07-02 15:54:37,549 - End of Step 2
+2019-07-02 15:54:37,571 - End of Step 3 - Read gene network
+2019-07-02 15:54:37,571 - End of Step 3 - Getting genes in the analysis
+2019-07-02 15:54:37,572 - End of Step 3
+2019-07-02 15:54:37,574 - End of Step 4 and 5
+2019-07-02 15:54:37,626 - End of Step 6
+2019-07-02 15:54:55,210 - ******** Starting ********
+2019-07-02 15:54:55,218 - End of Step 1 and 2
+2019-07-02 15:54:55,222 - End of Step 3
+2019-07-02 15:54:55,225 - End of Step 4 and 5
+2019-07-02 15:54:55,277 - End of Step 6
+2019-07-02 15:55:05,832 - ******** Starting ********
+2019-07-02 15:55:05,837 - End of Step 1
+2019-07-02 15:55:05,987 - End of Step 2
+2019-07-02 15:55:05,994 - End of Step 4 and 5
+2019-07-02 15:55:06,046 - End of Step 6
+2019-07-02 15:57:34,435 - ******** Starting ********
+2019-07-02 15:57:34,444 - End of Step 1 and 2
+2019-07-02 15:57:34,452 - End of Step 4 and 5
+2019-07-02 15:57:34,511 - End of Step 6
+2019-07-08 13:39:23,895 - ******** Starting ********
+2019-07-08 13:39:23,973 - End of Step 1
+2019-07-08 13:39:24,122 - End of Step 2
+2019-07-08 13:39:24,126 - End of Step 3 - Read gene network
+2019-07-08 13:39:24,126 - End of Step 3 - Getting genes in the analysis
+2019-07-08 13:39:53,034 - ******** Starting ********
+2019-07-08 13:39:53,039 - End of Step 1
+2019-07-08 13:39:53,185 - End of Step 2
+2019-07-08 13:39:53,189 - End of Step 3 - Read gene network
+2019-07-08 13:39:53,189 - End of Step 3 - Getting genes in the analysis
+2019-07-08 13:39:53,190 - End of Step 3
+2019-07-08 13:39:53,194 - End of Step 4 and 5
+2019-07-08 13:39:53,373 - End of Step 6
+2019-07-08 14:19:47,806 - ******** Starting ********
+2019-07-08 14:19:47,812 - End of Step 1
+2019-07-08 14:19:47,959 - End of Step 2
+2019-07-08 14:19:47,963 - End of Step 3 - Read gene network
+2019-07-08 14:19:47,963 - End of Step 3 - Getting genes in the analysis
+2019-07-08 14:19:47,964 - End of Step 3
+2019-07-08 14:19:47,970 - End of Step 4 and 5
+2019-07-08 14:19:48,152 - End of Step 6
+2019-07-15 13:38:36,431 - ******** Starting ********
+2019-07-15 13:38:36,532 - End of Step 1
+2019-07-15 13:38:36,694 - End of Step 2
+2019-07-15 13:38:36,723 - End of Step 3 - Read gene network
+2019-07-15 13:38:36,723 - End of Step 3 - Getting genes in the analysis
+2019-07-15 13:38:36,724 - End of Step 3
+2019-07-15 13:38:36,727 - End of Step 4 and 5
+2019-07-15 13:38:36,843 - End of Step 6
+2019-07-15 14:51:11,502 - ******** Starting ********
+2019-07-15 14:51:11,507 - End of Step 1
+2019-07-15 14:51:11,654 - End of Step 2
+2019-07-15 14:51:11,658 - End of Step 3 - Read gene network
+2019-07-15 14:51:11,658 - End of Step 3 - Getting genes in the analysis
+2019-07-15 14:51:11,659 - End of Step 3
+2019-07-15 14:51:11,662 - End of Step 4 and 5
+2019-07-15 14:51:11,765 - End of Step 6
+2019-07-15 14:51:21,718 - ******** Starting ********
+2019-07-15 14:51:21,724 - End of Step 1
+2019-07-15 14:51:21,872 - End of Step 2
+2019-07-15 14:51:21,875 - End of Step 3 - Read gene network
+2019-07-15 14:51:21,875 - End of Step 3 - Getting genes in the analysis
+2019-07-15 14:51:21,876 - End of Step 3
+2019-07-15 14:51:21,880 - End of Step 4 and 5
+2019-07-15 14:51:21,983 - End of Step 6
+2019-07-15 14:54:09,625 - ******** Starting ********
+2019-07-15 14:54:09,630 - End of Step 1
+2019-07-15 14:54:09,785 - End of Step 2
+2019-07-15 14:54:09,789 - End of Step 3 - Read gene network
+2019-07-15 14:54:09,789 - End of Step 3 - Getting genes in the analysis
+2019-07-15 14:54:09,790 - End of Step 3
+2019-07-15 14:54:09,793 - End of Step 4 and 5
+2019-07-15 14:54:09,897 - End of Step 6
+2019-07-16 13:28:21,039 - ******** Starting ********
+2019-07-16 13:28:21,278 - Input Type 1 or 3 - End of Step 1
+2019-07-16 13:28:21,310 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-16 13:28:21,310 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-16 13:28:21,311 - End of Step 2
+2019-07-16 13:28:21,314 - Step 4 - End of finding components
+2019-07-16 13:28:21,417 - End of Step 4
+2019-07-17 11:20:17,561 - ******** Starting ********
+2019-07-17 11:20:17,714 - Input Type 1 or 3 - End of Step 1
+2019-07-17 11:20:17,718 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 11:20:17,718 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 11:20:17,719 - End of Step 2
+2019-07-17 11:20:17,722 - Step 4 - End of finding components
+2019-07-17 11:20:17,825 - End of Step 4
+2019-07-17 15:03:50,380 - ******** Starting ********
+2019-07-17 15:03:50,534 - Input Type 1 or 3 - End of Step 1
+2019-07-17 15:03:50,538 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 15:03:50,538 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 15:03:50,539 - End of Step 2
+2019-07-17 15:03:50,542 - Step 4 - End of finding components
+2019-07-17 15:03:50,648 - End of Step 4
+2019-07-17 15:05:14,102 - ******** Starting ********
+2019-07-17 15:05:14,256 - Input Type 1 or 3 - End of Step 1
+2019-07-17 15:05:14,260 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 15:05:14,261 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 15:05:14,261 - End of Step 2
+2019-07-17 15:05:14,265 - Step 4 - End of finding components
+2019-07-17 15:05:14,370 - End of Step 4
+2019-07-17 15:05:50,845 - ******** Starting ********
+2019-07-17 15:05:51,001 - Input Type 1 or 3 - End of Step 1
+2019-07-17 15:05:51,005 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 15:05:51,005 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 15:05:51,006 - End of Step 2
+2019-07-17 15:05:51,009 - Step 4 - End of finding components
+2019-07-17 15:05:51,115 - End of Step 4
+2019-07-17 15:06:16,136 - ******** Starting ********
+2019-07-17 15:06:16,290 - Input Type 1 or 3 - End of Step 1
+2019-07-17 15:06:16,295 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 15:06:16,295 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 15:06:16,296 - End of Step 2
+2019-07-17 15:06:16,299 - Step 4 - End of finding components
+2019-07-17 15:06:16,404 - End of Step 4
+2019-07-17 15:07:17,414 - ******** Starting ********
+2019-07-17 15:07:17,569 - Input Type 1 or 3 - End of Step 1
+2019-07-17 15:07:17,573 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-17 15:07:17,574 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-17 15:07:17,575 - End of Step 2
+2019-07-17 15:07:17,578 - Step 4 - End of finding components
+2019-07-17 15:07:17,689 - End of Step 4

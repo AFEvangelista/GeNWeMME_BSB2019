@@ -1,0 +1,7 @@
+2019-07-16 13:43:13,146 - ******** Starting ********
+2019-07-16 13:43:50,638 - Input Type 1 or 3 - End of Step 1
+2019-07-16 13:43:51,356 - Input Type 1 - End of Step 2 - Read gene network
+2019-07-16 13:43:51,356 - Input Type 1 - End of Step 2 - Getting genes in the analysis
+2019-07-16 15:01:37,012 - End of Step 2
+2019-07-16 15:05:34,796 - Step 4 - End of finding components
+2019-07-16 15:05:41,007 - End of Step 4

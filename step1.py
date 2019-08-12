@@ -150,21 +150,7 @@ def filter_genes_min_freq(maf, min_freq):
 
 def get_genes_from_bmm(bmm):
     return list(bmm)
-    
-def main():
-    maf_file_name = sys.argv[1] # file with data about mutations (MAF file)
-    
-    maf = pd.read_table(maf_file_name, usecols=["Hugo_Symbol", "Tumor_Sample_Barcode", "Variant_Classification"])
-    filter_genes_min_freq(maf, 0.02)
-    wmm = get_weighted_mutation_matrix(maf)
-    bmm = get_binary_mutation_matrix(maf)
-    
-    print(wmm)
-    print(bmm)
-    
-    
-# python step1_2.py inputExamples/simple.maf
-#main()
+
 
 
 
